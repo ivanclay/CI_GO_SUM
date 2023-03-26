@@ -31,4 +31,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: ivanclay/ci_go_sum:latest
+          tags: ivanmoura/ci_go_sum:latest
